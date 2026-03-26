@@ -21,7 +21,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.0"
+                "php": ">=8.2.0"
             },
             "suggest": {
                 "fig/cache-util": "Provides some useful PSR-6 utilities"
